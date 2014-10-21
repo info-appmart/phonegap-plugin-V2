@@ -180,7 +180,7 @@ public class AppmartPlugin extends CordovaPlugin {
 }
 ```
 
-> パッケージ名だけを反映してくさい。
+> パッケージ名を合わせてください。
 
 
 #### [config.xml]変更
@@ -193,7 +193,7 @@ public class AppmartPlugin extends CordovaPlugin {
        <param name="android-package" value="com.example.appmart_phonegap.AppmartPlugin" />
 	</feature>
 ```
-> パッケージ名を合わせてください
+> パッケージ名を合わせてください。
 
 
 #### 実装
