@@ -1,4 +1,4 @@
-# AppmartƒAƒvƒŠ“à‰Û‹à: PhoneGap plugin V2 (CordovaPluginŒp³)
+# Appmartã‚¢ãƒ—ãƒªå†…èª²é‡‘: PhoneGap plugin V2 (CordovaPluginç¶™æ‰¿)
 
 ![last-version](http://img.shields.io/badge/last%20version-1.1-green.svg "last version:1.1") 
 
@@ -7,37 +7,37 @@
 
 ---
 
-## –ÚŸ
+## ç›®æ¬¡
 
 ```
-1- “±“üè‡
+1- å°å…¥æ‰‹é †
 
-	- [appmart-inbilling-as-project]‚ğƒCƒ“ƒ|[ƒg
-	- ƒvƒ‰ƒOƒCƒ“ƒtƒ@ƒCƒ‹ì¬
-	- [config.xml]•ÏX
-	- ŒˆÏ‚ÌÀ‘•
+	- [appmart-inbilling-as-project]ã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆ
+	- ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ãƒ•ã‚¡ã‚¤ãƒ«ä½œæˆ
+	- [config.xml]å¤‰æ›´
+	- æ±ºæ¸ˆã®å®Ÿè£…
 
 ```
 
-## “±“üè‡
+## å°å…¥æ‰‹é †
 
 
-### [appmart-inbilling-as-project]‚ğƒCƒ“ƒ|[ƒg
+### [appmart-inbilling-as-project]ã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆ
 
-[https://github.com/info-appmart/appmart-inbilling-as-project](https://github.com/info-appmart/appmart-inbilling-as-project)@‚ğƒ_ƒEƒ“ƒ[ƒh‚µAworkspace‚ÅƒfƒvƒƒC‚µ‚Ä‚­‚¾‚³‚¢B
+[https://github.com/info-appmart/appmart-inbilling-as-project](https://github.com/info-appmart/appmart-inbilling-as-project)ã€€ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã€workspaceã§ãƒ‡ãƒ—ãƒ­ã‚¤ã—ã¦ãã ã•ã„ã€‚
 
-> “±“üè‡‚Í [‚±‚¿‚ç](https://github.com/info-appmart/appmart-inbilling-as-project#appmart%E3%82%A2%E3%83%97%E3%83%AA%E5%86%85%E8%AA%B2%E9%87%91-android-project-library)
-
-
-
-### ƒvƒ‰ƒOƒCƒ“ƒtƒ@ƒCƒ‹ì¬
-
-–{ƒvƒƒWƒFƒNƒg‚ÌuAppmartPlugin.javavƒNƒ‰ƒX‚ğ[src]‰º‚É’Ç‰Á‚µ‚Ä‚­‚¾‚³‚¢iƒpƒbƒP[ƒW–¼‚Í‰½‚Å‚à‚æ‚¢jB
+> å°å…¥æ‰‹é †ã¯ [ã“ã¡ã‚‰](https://github.com/info-appmart/appmart-inbilling-as-project#appmart%E3%82%A2%E3%83%97%E3%83%AA%E5%86%85%E8%AA%B2%E9%87%91-android-project-library)
 
 
-### [config.xml]•ÏX
 
-[project-root/res/xml/config]‰º‚Ìconfig.xml‚É‰º‹LƒR[ƒh‚ğ’Ç‹L
+### ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ãƒ•ã‚¡ã‚¤ãƒ«ä½œæˆ
+
+æœ¬ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®ã€ŒAppmartPlugin.javaã€ã‚¯ãƒ©ã‚¹ã‚’[src]ä¸‹ã«è¿½åŠ ã—ã¦ãã ã•ã„ï¼ˆãƒ‘ãƒƒã‚±ãƒ¼ã‚¸åã¯ä½•ã§ã‚‚ã‚ˆã„ï¼‰ã€‚
+
+
+### [config.xml]å¤‰æ›´
+
+[project-root/res/xml/config]ä¸‹ã®config.xmlã«ä¸‹è¨˜ã‚³ãƒ¼ãƒ‰ã‚’è¿½è¨˜
 
 ```xml
 <!-- appmart plugin -->
@@ -45,38 +45,38 @@
        <param name="android-package" value="com.example.appmart_phonegap.AppmartPlugin" />
 	</feature>
 ```
-> ƒpƒbƒP[ƒW–¼‚ğ‡‚í‚¹‚Ä‚­‚¾‚³‚¢B
+> ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸åã‚’åˆã‚ã›ã¦ãã ã•ã„ã€‚
 
 
-### ŒˆÏ‚ÌÀ‘•
+### æ±ºæ¸ˆã®å®Ÿè£…
 
-plugin‚Ì“±“ü‚ÍŠ®—¹‚É‚È‚è‚Ü‚µ‚½Bjs‚ÅÀ‘•‚µ‚Ü‚µ‚å‚¤F
+pluginã®å°å…¥ã¯å®Œäº†ã«ãªã‚Šã¾ã—ãŸã€‚jsã§å®Ÿè£…ã—ã¾ã—ã‚‡ã†ï¼š
 
-##### ¬Œ÷‚Ìcallback‚ğ—pˆÓ
+##### æˆåŠŸæ™‚ã®callbackã‚’ç”¨æ„
 
 ```js
 // success callback
 var successCallback = function(successJson) { 
-		//ŒˆÏID‚ğæ“¾
+		//æ±ºæ¸ˆIDã‚’å–å¾—
 		var settlementId = successJson["transactionId"];
-		alert("ŒˆÏ‚ªŠm’è‚³‚ê‚Ü‚µ‚½BŒˆÏID: " + settlementId);     			
+		alert("æ±ºæ¸ˆãŒç¢ºå®šã•ã‚Œã¾ã—ãŸã€‚æ±ºæ¸ˆID: " + settlementId);     			
 	};
 ```
 
-##### ¸”s‚Ìcallback‚ğ—pˆÓ
+##### å¤±æ•—æ™‚ã®callbackã‚’ç”¨æ„
 
 ```js
 // error callback
 var errorCallback = function(errorJson) {
 	var code 	= errorJson["error_code"];	        	
-	alert("ƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B " + code); 
+	alert("ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚ " + code); 
 };
 ```
 
-##### plugin‚ÌŒÄ‚Ño‚µ
+##### pluginã®å‘¼ã³å‡ºã—
 
 ```js
-// ŒˆÏˆ—
+// æ±ºæ¸ˆå‡¦ç†
 function do_settlement(obj, itemId){
 	        	
 	//appmart plugin
@@ -94,7 +94,7 @@ function do_settlement(obj, itemId){
 }        
 ```
 
-> Cordova(phoneGap)‚Ìexecƒƒbƒ\[ƒh‚Åƒvƒ‰ƒOƒCƒ“‚ğŒÄ‚Ñ‚¾‚·B
+> Cordova(phoneGap)ã®execãƒ¡ã‚½ãƒƒãƒ‰ã§ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã‚’å‘¼ã³ã ã™ã€‚
 
 ##### HTML
 
@@ -102,7 +102,7 @@ function do_settlement(obj, itemId){
 <button onclick="do_settlement(this, 'your-service_id')" value="settlement">Settlement</button>
 ```
 
-##### HTML/JS ƒTƒ“ƒvƒ‹
+##### HTML/JS ã‚µãƒ³ãƒ—ãƒ«
 
 ```html
 <!DOCTYPE html>
@@ -122,19 +122,19 @@ function do_settlement(obj, itemId){
        		
 	       	// success callback
 	        var successCallback = function(successJson) { 
-     			//ŒˆÏID‚ğæ“¾
+     			//æ±ºæ¸ˆIDã‚’å–å¾—
      			var settlementId = successJson["transactionId"];
-     			alert("ŒˆÏ‚ªŠm’è‚³‚ê‚Ü‚µ‚½BŒˆÏID: " + settlementId);     			
+     			alert("æ±ºæ¸ˆãŒç¢ºå®šã•ã‚Œã¾ã—ãŸã€‚æ±ºæ¸ˆID: " + settlementId);     			
 	       	};
 	        
 	        // error callback
 	        var errorCallback = function(errorJson) {
 	        	var code 	= errorJson["error_code"];	        	
-	        	alert("ƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B " + code); 
+	        	alert("ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚ " + code); 
 	        };
 	        
 	        
-	        // ŒˆÏˆ—
+	        // æ±ºæ¸ˆå‡¦ç†
 	        function do_settlement(obj, service_id){
 	        	        	
 	        	//appmart plugin
