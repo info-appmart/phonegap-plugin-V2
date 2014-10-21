@@ -15,14 +15,14 @@
 	- [appmart-inbilling-as-project]をインポート
 	- プラグインファイル作成
 	- [config.xml]変更
-	- 実装
+	- 決済の実装
 
 ```
 
 ## 導入手順
 
 
-#### [appmart-inbilling-as-project]をインポート
+### [appmart-inbilling-as-project]をインポート
 
 [https://github.com/info-appmart/appmart-inbilling-as-project](https://github.com/info-appmart/appmart-inbilling-as-project)　をダウンロードし、workspaceでデプロイしてください。
 
@@ -30,12 +30,12 @@
 
 
 
-#### プラグインファイル作成
+### プラグインファイル作成
 
 本プロジェクトの「AppmartPlugin.java」クラスを[src]下に追加してください（パッケージ名は何でもよい）。
 
 
-#### [config.xml]変更
+### [config.xml]変更
 
 [project-root/res/xml/config]下のconfig.xmlに下記コードを追記
 
@@ -48,7 +48,7 @@
 > パッケージ名を合わせてください。
 
 
-#### 決済の実装
+### 決済の実装
 
 pluginの導入は完了になりました。jsで実装しましょう：
 
